@@ -1,0 +1,24 @@
+```
+# CMake build artifacts
+tcpclient/build/
+
+# Qt specific
+tcpclient/build/.qt/
+
+# Compiled objects
+*.o
+*.obj
+*.out
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt autogen files
+*_autogen/
+
+# Executables
+tcpclient/tcpclient
+```
